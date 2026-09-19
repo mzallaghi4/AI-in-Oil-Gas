@@ -1,2 +1,31 @@
-# AI-in-Oil-Gas
-AI Applications in Oil &amp; Gas (Petroleum) 
+#  AI Applications in Oil & Gas (Petroleum) 
+Artificial Intelligence (AI), Machine Learning, and Digital Transformation in Oil & Gas: From Data Analytics to Intelligent Operations
+
+This project examines AI applications across three industry segments: upstream, midstream, and downstream, followed by cross-cutting technologies.
+
+Part 1: Upstream: Exploration, Drilling, and Production
+Part 2: Midstream:  Pipelines, Transportation, and Integrity
+Part 3: Downstream: Refining and Petrochemicals
+Part 4: Cross-Cutting AI Technologies
+- Predictive Maintenance
+- Generative AI and Large Language Models
+- Computer Vision for HSE
+- Digital Twins and Autonomous Operations
+Digital twin ecosystems: 
+Coupling AI models with digital twins creates closed-loop systems for autonomous decision-making across reservoir, wellbore, and surface networks.
+
+### Hands-On Python 
+
+Software Environment
+
+Programming
+- Python
+- Jupyter Notebook
+
+Python for Petroleum Data
+
+Drilling Optimization with Machine Learning
+
+Production Forecasting with Machine Learning 
+
+
