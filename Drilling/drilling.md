@@ -17,10 +17,9 @@ Predict: ROP
 ROP =f(WOB,RPM,Torque,FlowRate,MudDensity,Depth)
 
 where:
-
-ROP = Rate of Penetration (ft/hr)
-WOB = Weight on Bit
-RPM = Rotary Speed
+- ROP = Rate of Penetration (ft/hr)
+- WOB = Weight on Bit
+- RPM = Rotary Speed
 
 
 Dataset: drilling_data.csv
