@@ -4,15 +4,24 @@ Artificial Intelligence (AI), Machine Learning, and Digital Transformation in Oi
 This project examines AI applications across three industry segments: upstream, midstream, and downstream, followed by cross-cutting technologies.
 
 Part 1: Upstream: Exploration, Drilling, and Production
+
 Part 2: Midstream:  Pipelines, Transportation, and Integrity
+
 Part 3: Downstream: Refining and Petrochemicals
+
 Part 4: Cross-Cutting AI Technologies
 - Predictive Maintenance
 - Generative AI and Large Language Models
 - Computer Vision for HSE
 - Digital Twins and Autonomous Operations
+
 Digital twin ecosystems: 
 Coupling AI models with digital twins creates closed-loop systems for autonomous decision-making across reservoir, wellbore, and surface networks.
+
+### Generative AI
+
+Generative AI & LLMs for Energy Workflows (RAG, OCR, report automation)
+
 
 ### Hands-On Python 
 Programming
