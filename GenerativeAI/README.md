@@ -16,3 +16,34 @@ We provides a practical implementation framework for applying:
 to real-world energy industry workflows.
 
 The focus is on transforming large volumes of petroleum documents and operational data into intelligent decision-support systems.
+
+
+
+
+### AI Drilling Report Generator 
+
+* [ ] Generative AI + RAG + OCR + Data Analytics for Automated Daily Drilling Reports
+
+
+#### AI-Based Drilling Report Generator Using LLMs, RAG, and Petroleum Data Analytics
+
+Daily Drilling Reports (DDR) are critical operational documents generated during well construction.
+
+**A typical drilling report contains:**
+* Drilling progress
+* Formation information
+* Drilling parameters
+* ROP performance
+* NPT events
+* Mud properties
+* BHA information
+* Bit performance
+* HSE observations
+* Operational recommendations
+
+Traditionally:
+
+* Drilling engineers manually review data
+* Reports require several hours/day
+* Important operational trends may be missed
+* Knowledge is distributed across PDFs, Excel files, and databases
