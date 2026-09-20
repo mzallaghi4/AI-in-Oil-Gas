@@ -15,16 +15,16 @@ Digital twin ecosystems:
 Coupling AI models with digital twins creates closed-loop systems for autonomous decision-making across reservoir, wellbore, and surface networks.
 
 ### Hands-On Python 
-
-Software Environment
-
 Programming
 - Python
 - Jupyter Notebook
 
+
 Python for Petroleum Data
 
-Drilling Optimization with Machine Learning
+<a href="https://github.com/mzallaghi4/AI-in-Oil-Gas/blob/main/Drilling/DNN_ROP.ipynb" target="_blank">Deep NN-Based Drilling Optimization</a>
+
+
 
 Production Forecasting with Machine Learning 
 
