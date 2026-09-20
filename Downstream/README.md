@@ -5,6 +5,16 @@ Artificial Intelligence is reshaping downstream oil and gas, turning refineries 
 ### AI in Refinery Process Optimization
 
 **Crude Distillation Unit (CDU) optimization** 
+
 The crude distillation unit is the initial and most vital separation stage in a refinery, providing feedstocks for all subsequent conversion, upgrading, and blending operations. 
 
 
+The AI system will optimize:
+
+* Crude throughput
+* Furnace outlet temperature
+* Column pressure
+* Steam injection
+* Reflux ratio
+* Product yields
+* Energy consumption
