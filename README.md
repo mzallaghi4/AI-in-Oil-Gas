@@ -18,9 +18,18 @@ Part 4: Cross-Cutting AI Technologies
 Digital twin ecosystems: 
 Coupling AI models with digital twins creates closed-loop systems for autonomous decision-making across reservoir, wellbore, and surface networks.
 
+
+
+
 ### Generative AI
 
 Generative AI & LLMs for Energy Workflows (RAG, OCR, report automation)
+
+
+
+
+
+
 
 
 ### Hands-On Python 
